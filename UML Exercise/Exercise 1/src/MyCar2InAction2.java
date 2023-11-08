@@ -1,4 +1,4 @@
-public class MyCarInAction2 {
+public class MyCar2InAction2 {
     public static void main(String[] args){
         MyCar myCar = new MyCar();
         myCar.color = "blue";
